@@ -1,0 +1,7 @@
+gf goto file
+ctrl+w + gf goto file opening a new tab
+after gf you can go back to previous file using ctrl+O
+
+gt = next tab
+gT = previous tab
+ - these work if vim > 7.4
